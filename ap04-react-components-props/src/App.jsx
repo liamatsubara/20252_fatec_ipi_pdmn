@@ -21,7 +21,7 @@ const App = () => {
   const pedidos = [
     {
       data: '22/08/2025',
-      icone: 'fa-solid fa-hd',
+      icone: 'fa-solid fa-hdd',
       titulo: 'SSD',
       descricao: 'SSD 512Gb'
     },
